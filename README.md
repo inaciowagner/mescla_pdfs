@@ -18,3 +18,4 @@
 ## *Obs.:*
 *Pode ser muito útil quando é preciso envniar por e-mail para cadastro vários documentos pessoais para cadastro como RG, CPF, comprovane de residência, currículo, e etc.* 
 *Invariavelmente o comprovante de residência e o currículo precisarão ser atualizados e será preciso mesclá-los novamente.*
+*Outra utilidade é quando você precisa arquivar documentos de várias pessoas, para evitar uma grande quantidade de arquvios.*
