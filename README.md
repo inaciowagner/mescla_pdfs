@@ -6,7 +6,7 @@
 3 - o programa *mesclar_pdfs*;
 
 **Modo de preparar:**
-Junte tudo na pasta do Windows que você escolheu; dê 2 clicks no arquivo _RECEITA PARA UM PDF COM TODOS OS SEUS DOCUMENTOS PESSOAIS DIGITALIZADOS SEPARADAMENE
+- Junte tudo na pasta do Windows que você escolheu; dê 2 clicks no arquivo *mesclar_pdfs.exe*
 
 **Para este prato vamos precisar de:**
 1 - uma pasta do Windows a gosto;
