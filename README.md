@@ -16,5 +16,5 @@ Junte tudo na pasta do Windows que você escolheu; dê 2 clicks no arquivo _RECE
 **Rende 1 arquivo com contendo todos os demais PDFs**
 
 ## *Obs.:*
-*Pode ser muito quando é preciso envniar vários documentos pessoais para cadastro como RG, CPF, comprovane de residência, currículo, e etc.* 
+*Pode ser muito útil quando é preciso envniar por e-mail para cadastro vários documentos pessoais para cadastro como RG, CPF, comprovane de residência, currículo, e etc.* 
 *Invariavelmente o comprovante de residência e o currículo precisarão ser atualizados e será preciso mesclá-los novamente.*
