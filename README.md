@@ -1,5 +1,5 @@
 # mescla_pdfs
-# RECEITA PARA UM PDF ÚNICO COM DOCUMENTOS DIRERENTES
+# RECEITA PARA UM PDF ÚNICO COM DOCUMENTOS DIFERENTES
 **Para este prato vamos precisar de:**
 1 - uma pasta do Windows a gosto;
 2 - vários arquivos tipo PDF que você precisa juntar em um só;
